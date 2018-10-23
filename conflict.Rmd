@@ -8,5 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##This is an exercise for git collaboration conflicts.
+##We will do some exercise on git collaboration conflicts.
+
+##Git is so fun!
 
