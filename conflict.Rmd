@@ -12,3 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##Git is so fun!
 
+##This is an exercise for git collaboration conflicts for different changes.
+
+##Is there any conflict information?
+
+
